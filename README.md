@@ -5,6 +5,7 @@
 [![Embeddings](https://img.shields.io/badge/Model-SentenceTransformers--all--MiniLM--L6--v2-orange.svg)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 [![Project Status](https://img.shields.io/badge/Status-25%25%20Complete%20(Days%201--2)-brightgreen.svg)]()
 [![Build & Tests](https://img.shields.io/badge/Tests-16%2F16%20Passed%20(100%25)-success.svg)]()
+[![Git Commits](https://img.shields.io/badge/Commits-27%20Sequential%20Commits-blue.svg)]()
 
 TrustRAG is an enterprise-grade, self-learning Retrieval-Augmented Generation (RAG) chatbot system engineered to prevent AI hallucinations, guarantee transparent context verification, and provide immutable audit trails via blockchain verification. By coupling semantic vector search with real-time confidence evaluation and dynamic routing pipelines, TrustRAG ensures user queries are answered accurately or safely escalated to human administration.
 
