@@ -1,0 +1,6 @@
+# Core Dependencies for TrustRAG System
+chromadb>=0.4.0
+sentence-transformers>=2.2.2
+torch>=2.0.0
+numpy>=1.22.0
+typing-extensions>=4.0.0
