@@ -1,0 +1,38 @@
+# Environments & Virtual Envs
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Persistent Vector Database (ChromaDB files)
+retriever_agent/chroma_db/
+verifier_agent/chroma_db/
+chroma_db/
+*.sqlite3
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Junk Files
+.DS_Store
+Thumbs.db
+desktop.ini
